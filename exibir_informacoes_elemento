@@ -1,0 +1,142 @@
+def exibir_informacoes_elemento():
+  pass
+
+sigla_elemento = input("Digite no maximo 2 letras do alfaberto: ").upper()
+sigla_elemento = sigla_elemento.upper()
+
+if sigla_elemento == "H":
+  print("Elemento: Hidrogênio")
+  print("Número atômico: 1")
+  print("Massa atômica: 1.008")
+elif sigla_elemento == "HE":
+  print("Elemento: Hélio")
+  print("Número atômico: 2")
+  print("Massa atômica: 4.003")
+elif sigla_elemento == "ZN":
+  print("Elemento: Zinco")
+  print("Número atômico: 30")
+  print("Massa atômica: 65.409")
+elif sigla_elemento == "CU":
+  print("Elemento: Cobre")
+  print("Número atômico: 29")
+  print("Massa atômica: 63.546")
+elif sigla_elemento == "FE":
+  print("Elemento: Ferro")
+  print("Número atômico: 26")
+  print("Massa atômica: 55.845")
+elif sigla_elemento == "AG":
+  print("Elemento: Prata")
+  print("Número atômico: 47")
+  print("Massa atômica: 107.868")
+elif sigla_elemento == "AU":
+  print("Elemento: Ouro")
+  print("Número atômico: 79")
+  print("Massa atômica: 196.967")
+elif sigla_elemento == "PT":
+  print("Elemento: Platina")
+  print("Número atômico: 78")
+  print("Massa atômica: 195.078")
+elif sigla_elemento == "AL":
+  print("Elemento: Alumínio")
+  print("Número atômico: 13")
+  print("Massa atômica: 26.982")
+elif sigla_elemento == "CL":
+  print("Elemento: Cloro")
+  print("Número atômico: 17")
+  print("Massa atômica: 35.453")
+elif sigla_elemento == "AR":
+  print("Elemento: Argônio")
+  print("Número atômico: 18")
+  print("Massa atômica: 39.948")
+elif sigla_elemento == "KR":
+  print("Elemento: Criptônio")
+  print("Número atômico: 36")
+  print("Massa atômica: 83.798")
+elif sigla_elemento == "XU":
+  print("Elemento: Xenônio")
+  print("Número atômico: 54")
+  print("Massa atômica: 131.293")
+elif sigla_elemento == "CE":
+  print("Elemento: Cério")
+  print("Número atômico: 58")
+  print("Massa atômica: 132.905")
+elif sigla_elemento == "PR":
+  print("Elemento: Praseodímio")
+  print("Número atômico: 59")
+  print("Massa atômica: 140.116")
+elif sigla_elemento == "ND":
+  print("Elemento: Neodímio")
+  print("Número atômico: 60")
+  print("Massa atômica: 144.242")
+elif sigla_elemento == "PM":
+  print("Elemento: Prometínio")
+  print("Número atômico: 61")
+  print("Massa atômica: 145")
+elif sigla_elemento == "SM":
+  print("Elemento: Samário")
+  print("Número atômico: 62")
+  print("Massa atômica: 150.36")
+elif sigla_elemento == "EU":
+  print("Elemento: Europio")
+  print("Número atômico: 63")
+  print("Massa atômica: 151.964")
+elif sigla_elemento == "Gd":
+  print("Elemento: Gadolínio")
+  print("Número atômico: 64")
+  print("Massa atômica: 157.25")
+elif sigla_elemento == "TB":
+  print("Elemento: Térbio")
+  print("Número atômico: 65")
+  print("Massa atômica: 158.925")
+elif sigla_elemento == "DY":
+  print("Elemento: Disprosio")
+  print("Número atômico: 66")
+  print("Massa atômica: 162.500")
+elif sigla_elemento == "HO":
+  print("Elemento: Holmio")
+  print("Número atômico: 67")
+  print("Massa atômica: 164.930")
+elif sigla_elemento == "ER":
+  print("Elemento: Erbio")
+  print("Número atômico: 68")
+  print("Massa atômica: 167.259")
+elif sigla_elemento == "TM":
+  print("Elemento: Túlio")
+  print("Número atômico: 69")
+  print("Massa atômica: 168.934")
+elif sigla_elemento == "YB":
+  print("Elemento: Itérbio")
+  print("Número atômico: 70")
+  print("Massa atômica: 173.054")
+elif sigla_elemento == "LU":
+  print("Elemento: Lutécio")
+  print("Número atômico: 71")
+  print("Massa atômica: 174.967")
+elif sigla_elemento == "HF":
+  print("Elemento: Háfnio")
+  print("Número atômico: 72")
+  print("Massa atômica: 178.49")
+elif sigla_elemento == "TA":
+  print("Elemento: Tântalo")
+  print("Número atômico: 73")
+  print("Massa atômica: 180.948")
+elif sigla_elemento == "W":
+  print("Elemento: Tungstênio")
+  print("Número atômico: 74")
+  print("Massa atômica: 183.84")
+elif sigla_elemento == "RE":
+  print("Elemento: Rênio")
+  print("Número atômico: 75")
+  print("Massa atômica: 186.207")
+elif sigla_elemento == "OS":
+  print("Elemento: Osmio")
+  print("Número atômico: 76")
+  print("Massa atômica: 190.23")
+elif sigla_elemento == "IR":
+  print("Elemento: Irídio")
+  print("Número atômico: 77")
+  print("Massa atômica: 192.217")
+
+else:
+  print("Elemento não encontrado.")
+    
